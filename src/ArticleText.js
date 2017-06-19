@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './ArticleText.css'
 import AuthorInfo from './AuthorInfo'
-import ArticleText from './ArticleText'
+import ArticleContent from './ArticleText'
 import ArticleLinks from './ArticleLinks'
 import Aside from './Aside'
 import OtherArticles from './OtherArticles'
